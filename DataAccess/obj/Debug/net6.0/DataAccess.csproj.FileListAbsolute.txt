@@ -1,0 +1,14 @@
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+G:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache

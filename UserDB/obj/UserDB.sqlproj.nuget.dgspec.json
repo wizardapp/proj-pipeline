@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "g:\\Data\\Learning\\Source.Repo\\MinimalAPIDemoAppPart1\\UserDB\\UserDB.sqlproj": {}
+  },
+  "projects": {
+    "g:\\Data\\Learning\\Source.Repo\\MinimalAPIDemoAppPart1\\UserDB\\UserDB.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "g:\\Data\\Learning\\Source.Repo\\MinimalAPIDemoAppPart1\\UserDB\\UserDB.sqlproj",
+        "projectName": "UserDB",
+        "projectPath": "g:\\Data\\Learning\\Source.Repo\\MinimalAPIDemoAppPart1\\UserDB\\UserDB.sqlproj",
+        "packagesPath": "C:\\Users\\AdamPhyo\\.nuget\\packages\\",
+        "outputPath": "g:\\Data\\Learning\\Source.Repo\\MinimalAPIDemoAppPart1\\UserDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\AdamPhyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

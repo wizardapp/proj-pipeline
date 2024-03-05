@@ -1,0 +1,10 @@
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\bin\Debug\UserDB.dacpac
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\bin\Debug\UserDB.dll
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\bin\Debug\UserDB.pdb
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\Model.xml
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\refactor.xml
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\postdeploy.sql
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\predeploy.sql
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\UserDB.dll
+g:\Data\Learning\Source.Repo\MinimalAPIDemoAppPart1\UserDB\obj\Debug\UserDB.pdb

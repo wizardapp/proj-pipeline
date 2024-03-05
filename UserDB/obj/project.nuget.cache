@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukc3TPIKrj9wbf8JN1+fj1OBRaTyPvdt5ytJaoTIMvqM1puZtE2uxyWJlxP39z3WFWMSbWUxVf7Y9Z05+lnjAg==",
+  "success": true,
+  "projectFilePath": "g:\\Data\\Learning\\Source.Repo\\MinimalAPIDemoAppPart1\\UserDB\\UserDB.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdamPhyo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\AdamPhyo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
